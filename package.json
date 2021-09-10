@@ -1,0 +1,25 @@
+{
+  "name": "express-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamLookingGlass/Express-CRUD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamLookingGlass/Express-CRUD/issues"
+  },
+  "homepage": "https://github.com/SamLookingGlass/Express-CRUD#readme",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "express": "^4.17.1",
+    "hbs": "^4.1.2",
+    "wax-on": "^1.2.2"
+  }
+}
